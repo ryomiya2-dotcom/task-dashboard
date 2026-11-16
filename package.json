@@ -5,10 +5,10 @@
   "dependencies": {
     "@headlessui/react": "^2.2.10",
     "@heroicons/react": "^2.2.0",
-    "@tailwindcss/postcss": "^4.3.3",
-    "@tailwindcss/vite": "^4.3.3",
+    "@tailwindcss/postcss": "^4.3.5",
+    "@tailwindcss/vite": "^4.3.5",
     "framer-motion": "^13.4.0",
-    "postcss": "^8.5.32",
+    "postcss": "^8.5.33",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
     "tailwindcss": "^4.1.5",
